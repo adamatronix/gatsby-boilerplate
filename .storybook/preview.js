@@ -1,3 +1,4 @@
+import '../src/components/Layout/fonts/fonts.css';
 export const parameters = {
   actions: { argTypesRegex: "^on[A-Z].*" },
   controls: {
